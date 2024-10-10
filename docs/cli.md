@@ -1,1 +1,1 @@
-The cat (concatenate) command in Linux displays file contents. It reads one or multiple files and prints their content to the terminal. cat is used to view file contents, combine files, and create new files.
+The cat (concatenate) command in Linux displays file contents. It reads one or multiple files and prints their content to the terminal. cat is used to view file contents, combine files, and create new files.changes 
