@@ -32,3 +32,5 @@ Shortcuts I would like to start using:
 
 
 [Visit to paris ](https://parisjetaime.com/eng/)
+
+LINK TO THIS PAGE [CLI commands](docs/cli.md)
